@@ -1,2 +1,8 @@
+#Dependecy Directories
+node_modules/
+
 #Exclude private files
 MONGODB*
+
+# dotenv environment variable files
+.env
